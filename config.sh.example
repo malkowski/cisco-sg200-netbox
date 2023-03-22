@@ -1,0 +1,9 @@
+
+# Credentials to log in to Cisco SG-200 switches
+CISCO_SG200_AUTH_USERNAME="cisco"
+CISCO_SG200_AUTH_PASSWORD="abc123"
+
+# Path to git.txstate.edu:t-m170/netbox-utils/netbox-cli/netbox-cli.init.sh
+NETBOX_CLI_INIT_SH="$HOME/repos/netbox-utils/netbox-cli/netbox-cli.init.sh"
+
+
